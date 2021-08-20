@@ -1,3 +1,5 @@
 opencv-contrib-python
 mediapipe
 numpy
+tflite
+gunicorn
