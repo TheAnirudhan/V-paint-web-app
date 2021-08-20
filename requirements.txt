@@ -1,6 +1,3 @@
-opencv-contrib-python
-mediapipe
-numpy
-tflite
-gunicorn
-flask
+flask>=1.1.2
+mediapipe>=0.8.6
+numpy>=1.19.5
